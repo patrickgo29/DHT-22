@@ -1,0 +1,24 @@
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\Temperature Monitor.exe.config
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\Temperature Monitor.exe
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\Temperature Monitor.pdb
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\ZedGraph.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\ZedGraph.xml
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\de\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\es\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\fr\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\hu\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\it\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\ja\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\pt\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\ru\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\sk\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\sv\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\tr\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\zh-cn\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\bin\Release\zh-tw\ZedGraph.resources.dll
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\obj\Release\Temperature_Monitor.MainForm.resources
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\obj\Release\Temperature_Monitor.Properties.Resources.resources
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\obj\Release\Temperature Monitor.csproj.GenerateResource.Cache
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\obj\Release\Temperature Monitor.exe
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\obj\Release\Temperature Monitor.pdb
+C:\Users\gilmore\Documents\Visual Studio 2013\Projects\Temperature Monitor\Temperature Monitor\obj\Release\Temperature Monitor.csprojResolveAssemblyReference.cache
