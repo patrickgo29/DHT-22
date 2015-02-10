@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "DHT22 UART", "DHT22 UART\DHT22 UART.cproj", "{AB59EB5D-38E3-451D-B443-6224204A9701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB59EB5D-38E3-451D-B443-6224204A9701}.Debug|AVR.ActiveCfg = Debug|AVR
+		{AB59EB5D-38E3-451D-B443-6224204A9701}.Debug|AVR.Build.0 = Debug|AVR
+		{AB59EB5D-38E3-451D-B443-6224204A9701}.Release|AVR.ActiveCfg = Release|AVR
+		{AB59EB5D-38E3-451D-B443-6224204A9701}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
